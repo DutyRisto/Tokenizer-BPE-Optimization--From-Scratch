@@ -253,7 +253,7 @@ These are potential costs to profile, **not measured bottlenecks claimed for thi
 
 The optimized version will be introduced as a new Git commit and release tag, preserving the baseline for direct comparison.
 
-## 10. References and attribution
+## 9. References and attribution
 
 - Stanford CS336, *Language Modeling from Scratch*: https://stanford-cs336.github.io/spring2025/
 
