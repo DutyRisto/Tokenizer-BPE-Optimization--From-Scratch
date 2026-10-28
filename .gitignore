@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+# Local profiling and training artifacts
+*.prof
+*.pkl
+bottleneck/
+run/
+vocab_dir/
+core/merge_dir/
+_marimo_\session
+sample.t
+# Local or downloaded corpora
+# data/
+# *.txt
